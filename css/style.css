@@ -1,0 +1,17 @@
+.site-header {
+	border:none;
+	background-color: yellow;
+}
+
+.site-title {
+	font-weight: bold;
+}
+
+a {
+	color:green;
+}
+
+a:hover {
+	color:red;
+	text-decoration: none;
+}
